@@ -3,9 +3,6 @@
 ## hi! my name is Pablo Barbosa 
 And I'm a Systems analysis and development studant in Senac school
 
-My instagram is:  
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pr0c3r/)
-
 
 ##### **I'm learn about:** 
 <div style="display: inline_block"><br/>
@@ -21,5 +18,8 @@ My instagram is:
 
 ##### I love listen music and this is my spotify, check my taste <3 !
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/169qnkmvic8eor3k9ttmuli10?si=8b3e0aa4a3db46c5)
+
+#### If u wanna see my face this is my instagram:  
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pr0c3r/)
 
 
